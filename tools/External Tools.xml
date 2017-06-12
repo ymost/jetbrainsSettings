@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Delete old kryo" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Git\usr\bin\rm.exe" />
+      <option name="PARAMETERS" value="-rf &quot;%USERPROFILE%\.m2\repository\com\esotericsoftware\kryo\kryo\2.21&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
