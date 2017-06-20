@@ -1,17 +1,9 @@
 <application>
-  <component name="CommunityFileTypes" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="jspx" type="XML" />
-      <mapping ext="tagx" type="XML" />
-    </extensionMap>
-  </component>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="task" type="JSON" />
-      <mapping ext="har" type="JSON" />
       <mapping ext="cfg" type="JSON" />
-      <mapping ext="event" type="JSON" />
+      <mapping ext="fromae" type="JSON" />
     </extensionMap>
   </component>
 </application>

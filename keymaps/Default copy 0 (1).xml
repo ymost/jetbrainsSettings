@@ -1,19 +1,15 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="Compile" />
+<keymap version="1" name="Default copy 0" parent="$default">
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
-  <action id="NewScratchBuffer">
-    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
-  </action>
   <action id="PlaybackLastMacro">
-    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="StartStopMacroRecording">
-    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
