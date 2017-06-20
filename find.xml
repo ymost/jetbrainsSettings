@@ -3,37 +3,6 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>.</mask>
-      <mask>B</mask>
-      <mask>Be</mask>
-      <mask>Ber</mask>
-      <mask>Berk</mask>
-      <mask>Berks</mask>
-      <mask>Berksf</mask>
-      <mask>Berksfile</mask>
-      <mask>Berksfile.</mask>
-      <mask>Berksfile.*</mask>
-      <mask>.*</mask>
-      <mask>*</mask>
-      <mask>.rb*</mask>
-      <mask>.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.jka</mask>
-      <mask>*.jk</mask>
-      <mask>*.p</mask>
-      <mask>*.xm</mask>
-      <mask>*.j</mask>
-      <mask>*.rb</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml0.</mask>
-      <mask>*.xml0.98\</mask>
-      <mask>*.xml0.98</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>

@@ -1,52 +1,11 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Alerts Engine virtual env" />
+      <name value="Python 2.7.11 virtualenv at C:\venv\dbmanager" />
       <type value="Python SDK" />
       <version value="Python 2.7.11" />
-      <homePath value="C:/venv/ae_master/Scripts/python.exe" />
+      <homePath value="C:\venv\dbmanager\Scripts\python.exe" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://C:/venv/ae_master/Lib/site-packages/ddt-1.1.1-py2.7.egg" />
-            <root type="simple" url="file://C:/venv/ae_master/Lib" />
-            <root type="simple" url="file://C:/venv/ae_master/Scripts" />
-            <root type="simple" url="file://C:/Code/Python27/Lib" />
-            <root type="simple" url="file://C:/Code/Python27/DLLs" />
-            <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
-            <root type="simple" url="file://C:/venv/ae_master" />
-            <root type="simple" url="file://C:/venv/ae_master/Lib/site-packages" />
-            <root type="simple" url="file://C:/Code/Python27" />
-            <root type="simple" url="file://C:/Code/Python27/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1015589017" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="DbManager virtual env" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.11" />
-      <homePath value="C:/venv/dbmanager/Scripts/python.exe" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://C:/venv/dbmanager/Lib" />
@@ -56,17 +15,14 @@
             <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
             <root type="simple" url="file://C:/venv/dbmanager" />
             <root type="simple" url="file://C:/venv/dbmanager/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/175406279" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/175406279" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -74,14 +30,11 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="mongomock virtual env" />
+      <name value="Python 2.7.11 virtualenv at C:\venv\mongomock" />
       <type value="Python SDK" />
       <version value="Python 2.7.11" />
-      <homePath value="C:/venv/mongomock/Scripts/python.exe" />
+      <homePath value="C:\venv\mongomock\Scripts\python.exe" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://C:/venv/mongomock/Lib" />
@@ -91,13 +44,10 @@
             <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
             <root type="simple" url="file://C:/venv/mongomock" />
             <root type="simple" url="file://C:/venv/mongomock/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-1043692200" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1043692200" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -105,14 +55,43 @@
       <additional />
     </jdk>
     <jdk version="2">
+      <name value="Alerts Engine virtual env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\venv\ae_master\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/git/mongomock" />
+            <root type="simple" url="file://C:/Code/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/venv/ae_master/Lib" />
+            <root type="simple" url="file://C:/venv/ae_master/Scripts" />
+            <root type="simple" url="file://C:/Code/Python27/Lib" />
+            <root type="simple" url="file://C:/Code/Python27/DLLs" />
+            <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/venv/ae_master" />
+            <root type="simple" url="file://C:/venv/ae_master/Lib/site-packages" />
+            <root type="simple" url="file://C:/Code/Python27" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1015589017" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/git/alertsengine" />
+    </jdk>
+    <jdk version="2">
       <name value="adalibpy virtual env" />
       <type value="Python SDK" />
       <version value="Python 2.7.11" />
-      <homePath value="C:/venv/adalibpy/Scripts/python.exe" />
+      <homePath value="C:\venv\adalibpy\Scripts\python.exe" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://C:/venv/adalibpy/Lib" />
@@ -122,104 +101,12 @@
             <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
             <root type="simple" url="file://C:/venv/adalibpy" />
             <root type="simple" url="file://C:/venv/adalibpy/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/663283174" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/663283174" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.11 virtualenv at C:\venv\deploy" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.11" />
-      <homePath value="C:\venv\deploy\Scripts\python.exe" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://C:/venv/deploy/Lib" />
-            <root type="simple" url="file://C:/venv/deploy/Scripts" />
-            <root type="simple" url="file://C:/Code/Python27/Lib" />
-            <root type="simple" url="file://C:/Code/Python27/DLLs" />
-            <root type="simple" url="file://C:/Code/Python27/Lib/lib-tk" />
-            <root type="simple" url="file://C:/venv/deploy" />
-            <root type="simple" url="file://C:/venv/deploy/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-1530957553" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="1.8" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_131&quot;" />
-      <homePath value="C:/Program Files/Java/jdk1.8.0_131" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/deploy.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/access-bridge-64.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/cldrdata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/jfxrt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunec.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunmscapi.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/javaws.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jfr.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jfxswt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/plugin.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/" />
-          </root>
         </sourcePath>
       </roots>
       <additional />
@@ -230,9 +117,6 @@
       <version value="Python 2.7.11" />
       <homePath value="C:\venv\systemtests\Scripts\python.exe" />
       <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://C:/venv/systemtests/Lib" />
@@ -245,22 +129,22 @@
             <root type="simple" url="file://C:/venv/systemtests/Lib/site-packages/win32" />
             <root type="simple" url="file://C:/venv/systemtests/Lib/site-packages/win32/lib" />
             <root type="simple" url="file://C:/venv/systemtests/Lib/site-packages/pythonwin" />
-            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/318817284" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+            <root type="simple" url="file://C:/git/systemtests/auditing/Robollom" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/318817284" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://C:/git/systemtests/auditing/Robollom" />
+      </additional>
     </jdk>
   </component>
 </application>
