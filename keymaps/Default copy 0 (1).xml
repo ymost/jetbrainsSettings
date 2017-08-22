@@ -29,4 +29,7 @@
   <action id="VcsShowCurrentChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
